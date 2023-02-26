@@ -11,3 +11,7 @@ SoundForge works with a Genetic algorithm, to help you generate tracks and save 
  • midiutil
  • pyo
  • random
+
+
+## There are two files named Backbone and SoundForge
+  Backbone contains some functions which are called by SoundForge
