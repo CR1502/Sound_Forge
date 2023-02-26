@@ -300,7 +300,8 @@ def main(num_bars: int, num_notes: int, num_steps: int, pauses: bool, key: str, 
 if __name__ == '__main__':
     print(
         "!!!Welcome to SoundForge!!!\nSoundForge works with a Genetic algorithm, to help you generate tracks and save "
-        "them as midi files on your local storage.\nThere is no limit to the number of populations you can generate,"
+        "them as midi files on your local storage.\nThere is no limit to the number of populations (Populations are "
+        "basically the number of track you want to generate at once in one iteration) you can generate,"
         " not satisfied with the results of this population that much, no worries, the next population is waiting"
         " for you!\n")
 
